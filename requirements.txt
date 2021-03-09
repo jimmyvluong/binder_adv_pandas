@@ -1,0 +1,2 @@
+pandas==1.2.3
+pandas_profiling==2.8.0
